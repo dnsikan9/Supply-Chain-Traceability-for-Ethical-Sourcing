@@ -9,3 +9,7 @@ S
 #tests/consumer-verification.test.ts,b/a/badbd160fcaa76a7a2622bb19b5e507280025745
 R
 "contracts/labor-certification.clar,e/8/e89d6d98c90259adedb7b476fe0e8125bb72be82
+P
+ contracts/material-tracking.clar,3/1/31ed6a8a5e7034d72166a21b1d93e9f60406a106
+O
+tests/material-tracking.test.ts,7/2/723e49d34524dac09188ea108396ca48a77b4fa4
