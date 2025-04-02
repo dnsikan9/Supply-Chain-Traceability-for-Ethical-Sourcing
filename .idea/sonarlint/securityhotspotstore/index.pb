@@ -13,3 +13,7 @@ P
  contracts/material-tracking.clar,3/1/31ed6a8a5e7034d72166a21b1d93e9f60406a106
 O
 tests/material-tracking.test.ts,7/2/723e49d34524dac09188ea108396ca48a77b4fa4
+T
+$contracts/supplier-verification.clar,1/e/1eeafa16bd5f2c0aa8a2cf22d6d886e3463492c6
+S
+#tests/supplier-verification.test.ts,1/3/137832f501dab1372390b8c0c1f565fff2cae64d
